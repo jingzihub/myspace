@@ -14,7 +14,7 @@ highlighter: pygments
 
 extensions: [fenced_code_blocks]
 rss_path: feed.xml
-BASE_PATH: http://jingzihub.github.io
+BASE_PATH: http://www.kinglyn.com
 img_url: /images
 
 comments :
