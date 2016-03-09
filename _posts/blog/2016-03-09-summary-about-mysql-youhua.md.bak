@@ -5,6 +5,7 @@ date: 2015-03-19 11:47:12
 category: blog
 description:"关于MYSQL优化的一些思考" 
 ---
+
 ##避免在列上直接运算
 ```
     select * from t where YEARdate: 2015-03-19 11:47:12 >= 2011
