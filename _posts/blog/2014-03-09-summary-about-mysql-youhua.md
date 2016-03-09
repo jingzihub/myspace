@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "mysql 优化"
-date: 2014-09-16 23:00:00
+title: "mysql优化"
+date: 2014-03-09 23:00:00
 category: blog
-description: "mysql 优化"
+description: "mysql优化"
 ---
 ##Windows使用方法
 在post的layout中添加以下代码
