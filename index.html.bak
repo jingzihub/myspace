@@ -107,7 +107,7 @@ title: Crazy Phage
                 <p>
                     <!-- {{ post.excerpt }} -->
                     {{ toppost.description }}
-                    <a href="{{ toppost.url }}">Read more</a>
+                    <a href="{{ post.url }}">Read more</a>
                 </p>
                 <p></p>
             </articel>
