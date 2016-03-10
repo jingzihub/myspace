@@ -8,7 +8,7 @@ description: "mysql优化"
 ##一、避免在列上直接运算
 > 
 ```
-    select * from t where YEARdate: 2015-03-19 11:47:12 >= 2011
+    select * from t where YEAR(d) >= 2011
 ```
 
 优化为
@@ -44,6 +44,14 @@ description: "mysql优化"
 ----------
 
 ##五、使用批量插入语句,节省交互
+
+    insert into t (id,name) values (1,'a')；
+    insert into t (id,name) values (2,'b')；
+    insert into t (id,name) values (3,'c')；
+
+优化为
+
+    insert into t (id,name) values (1,'a'),(2,'b'),(3,'c')；
 
 ----------
 
