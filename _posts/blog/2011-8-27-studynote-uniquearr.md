@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: php 生成不重复数组
 date: 2011-08-27 16:02:00
