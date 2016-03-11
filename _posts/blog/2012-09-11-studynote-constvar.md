@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: php 中的常量
 date: 2011-09-11 15:09:00

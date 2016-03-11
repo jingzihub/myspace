@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: php 关键字优先排序
 date: 2011-09-30 16:40:00

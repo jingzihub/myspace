@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 常用设计模式浅析
-date: 2015-05-10 15:40:00
+date: 2014-10-23 15:40:00
 category: blog
 description: 常用设计模式浅析
 ---
