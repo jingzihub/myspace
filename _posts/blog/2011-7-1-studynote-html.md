@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: html学习记录
 date: 2011-07-01 11:07:00

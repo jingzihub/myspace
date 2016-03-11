@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: php set和get用法
 date: 2011-08-12 11:03:00
