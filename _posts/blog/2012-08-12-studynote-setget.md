@@ -1,7 +1,7 @@
 ---
 layout: post
 title: php set和get用法
-date: 2011-08-12 11:03:00
+date: 2012-08-12 11:03:00
 category: blog
 description: php set和get用法
 ---

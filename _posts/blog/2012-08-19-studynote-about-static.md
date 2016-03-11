@@ -1,7 +1,7 @@
-﻿---
+---
 layout: post
 title: php 静态方法
-date: 2011-08-19 14:02:00
+date: 2012-08-19 14:02:00
 category: blog
 description: php 静态方法
 ---

@@ -1,7 +1,7 @@
-﻿---
+---
 layout: post
 title: php中对值的判断
-date: 2011-10-17 15:22:00
+date: 2012-10-17 15:22:00
 category: blog
 description: php中对值的判断
 ---
