@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: 关于php数据处理
 date: 2011-08-10 15:40:00
