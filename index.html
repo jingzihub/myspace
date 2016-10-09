@@ -101,28 +101,6 @@ title: Crazy Phage
         </div>
         <div class="bl-content">
             <h2>我的文章</h2>
-            {% for toppost in site.categories.top %}
-            <articel>
-                <h3>{{ toppost.title }} <span>{{ toppost.date | date_to_string }}</span></h3>
-                <p>
-                    <!-- {{ post.excerpt }} -->
-                    {{ toppost.description }}
-                    <a href="{{ toppost.url }}">Read more</a>
-                </p>
-                <p></p>
-            </articel>
-            {% endfor %}            
-            {% for post in site.categories.blog %}
-            <articel>
-                <h3>{{ post.title }} <span>{{ post.date | date_to_string }}</span></h3>
-                <p>
-                    <!-- {{ post.excerpt }} -->
-                    {{ post.description }}
-                    <a href="{{ post.url }}">Read more</a>
-                </p>
-                <p></p>
-            </articel>
-            {% endfor %}
         </div>
         <span class="bl-icon bl-icon-close"></span>
     </section>
