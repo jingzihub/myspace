@@ -1,6 +1,6 @@
 title: KingLyn - 内观外达看世界
 description: PHPer
-name: King Lyn
+name: KingLyn
 markdown: redcarpet
 encoding: "utf-8"
 permalink: blog/:year/:month/:day/:title.html
